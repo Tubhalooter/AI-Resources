@@ -3,5 +3,6 @@
 
 ## 🐾 Getting Started
 | name | description |
+|:---------------------------------------|:--------------------------------------------------|
 |<a href = "https://www.kaggle.com/learn/intro-to-machine-learning " alt = "[kaggle.com]">Kaggle</a>| Begginers resource to Machine learning, it will tach you about the basic concepts of machine learning |
 |<a href ="https://www.kaggle.com/learn/intermediate-machine-learning" alt="[kaggle.com]">Kaggle</a>| A step up from the beginners course |
