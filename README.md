@@ -1,2 +1,3 @@
 # AI-Resources
-![Dark Simple and Modern Artificial Intelligence and Coding Youtube Thumbnail](https://user-images.githubusercontent.com/87387613/211163481-479cab6f-1952-43da-9679-e6c7f7bf2eef.gif)
+![Dark Simple and Modern Artificial Intelligence and Coding Youtube Thumbnail (1)](https://user-images.githubusercontent.com/87387613/211163594-e0cd2b8c-61a4-449f-a561-87b38d6fc018.gif)
+
