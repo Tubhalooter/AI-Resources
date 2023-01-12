@@ -12,3 +12,10 @@ It may be a good idea to learn some basic concepts of calculus before progressin
 | name | description |
 |:---------------------------------------|:--------------------------------------------------|
 |<a href = "https://github.com/llSourcell/Learn_Computer_Vision" alt="[Siraj Raval Computer Vison]">Computer Vision Course</a>| A set of resources compiled by Siraj Raval for learning computer vison, it is self paced and is quite easy to grasp the contents without knowing too much math although it would be advisable to learn the pre-requisites mentioned in the repository |
+
+## 🔬 Deeper Dive
+For anyone wanting to understand the inner workings of neural nets from scratch
+| name | description |
+|:---------------------------------------|:--------------------------------------------------|
+|<a href="https://www.youtube.com/watch?v=hfMk-kjRv4c" alt="[youtube.com/@SebastianLague]">C# Neural Net (Video) </a>| A Video by Sebastian Lague explaining neural networks from scratch in Csharp while building a Project, Very clear animations to aid unerstanding |
+|Neural Networks from Scratch Python<a href="https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3" alt="[youtube.com/@sentdex]">[Videos]</a><a href="https://nnfs.io" alt"[Neural Networks from scratch in Python Book by sentdex]">[Book]</a>|A series of videos and a book made by sentdex, i have not read it myself but have seen some parts, it is very detailed with clean diagrams explaining concepts|
