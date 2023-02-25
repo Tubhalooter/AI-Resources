@@ -17,7 +17,7 @@ It may be a good idea to learn some basic concepts of calculus before progressin
 | name | description |
 |:--------------------------------------|:---------------------------------------------------|
 |<a href = "https://towardsdatascience.com/similarity-metrics-in-nlp-acc0777e234c" alt="[James Briggs Medium]">NLP Similarity</a>| An article covering how the similarity of words can be found in vector space|
-|<a href="https://www.baeldung.com/cs/convert-word-to-vector" alt="[Converting a Word to a Vector Baeldung]">Embeding words as vectors<\a>|An article explaining Two different ways to represent word as vectors, One-hot encoded and embeddings, very well explained and easy to understande with pros and cons to support each method|
+|<a href="https://www.baeldung.com/cs/convert-word-to-vector" alt="[Converting a Word to a Vector Baeldung]">Embeding words as vectors</a>|An article explaining Two different ways to represent word as vectors, One-hot encoded and embeddings, very well explained and easy to understande with pros and cons to support each method|
 
 
 ## 🔬 Deeper Dive
