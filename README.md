@@ -4,7 +4,7 @@
 ## 🐾 Getting Started - Machine Learning
 | name | description |
 |:---------------------------------------|:--------------------------------------------------|
-|<a href = "https://www.kaggle.com/learn/intro-to-machine-learning " alt = "[kaggle.com]">Beginner</a>| Beginers resource to Machine learning, it will tach you about the basic concepts of machine learning |
+|<a href = "https://www.kaggle.com/learn/intro-to-machine-learning " alt = "[kaggle.com]">Beginner</a>| Beginners resource to Machine learning, it will teach you about the basic concepts of machine learning |
 |<a href ="https://www.kaggle.com/learn/intermediate-machine-learning" alt="[kaggle.com]">Intermediate</a>| A step up from the beginners course |
 
 ## 👀 Computer Vision
