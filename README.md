@@ -13,6 +13,12 @@ It may be a good idea to learn some basic concepts of calculus before progressin
 |:---------------------------------------|:--------------------------------------------------|
 |<a href = "https://github.com/llSourcell/Learn_Computer_Vision" alt="[Siraj Raval Computer Vison]">Computer Vision Course</a>| A set of resources compiled by Siraj Raval for learning computer vison, it is self paced and is quite easy to grasp the contents without knowing too much math although it would be advisable to learn the pre-requisites mentioned in the repository |
 
+## 🗣️ Natural Language Processing
+| name | description |
+|:--------------------------------------|:---------------------------------------------------|
+|<a href = "https://towardsdatascience.com/similarity-metrics-in-nlp-acc0777e234c" alt="[James Briggs Medium]">NLP Similarity</a>| An article covering how the similarity of words can be represented in vector space|
+
+
 ## 🔬 Deeper Dive
 For anyone wanting to understand the inner workings of neural nets from scratch
 | name | description |
