@@ -17,6 +17,7 @@ It may be a good idea to learn some basic concepts of calculus before progressin
 | name | description |
 |:--------------------------------------|:---------------------------------------------------|
 |<a href="https://www.baeldung.com/cs/convert-word-to-vector" alt="[Converting a Word to a Vector Baeldung]">Embeding words as vectors</a>|An article explaining Two different ways to represent word as vectors, One-hot encoded and embeddings, very well explained and easy to understande with pros and cons to support each method|
+|<a href="https://www.youtube.com/watch?v=UqRCEmrv1gQ" alt ="[Word2Vec Video by The Semicolon on YouTube]"> Word2Vec Video</a>|A Video on Word2Vec, how it works , pros and cons etc, very clear explanations with easy to understand Diagrams|
 |<a href = "https://towardsdatascience.com/similarity-metrics-in-nlp-acc0777e234c" alt="[James Briggs Medium]">NLP Similarity</a>| An article covering how the similarity of words can be found in vector space|
 |<a href ="https://www.guru99.com/word-embedding-word2vec.html" alt="[guru99 Word2Vec]">Implement Word2Vec</a>|Article looking at implementing Word2Vec from an "Intents.json" file structure (Scroll down to the Genesim section for it)|
 
